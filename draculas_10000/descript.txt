@@ -10,8 +10,7 @@ name,Draculas 10,000
 craftman,Okuajub
 craftmanw,Okuajub
 craftmanurl,https://okuajub-netspace.neocities.org/
-homeurl,
-
+homeurl,https://raw.githubusercontent.com/Okuajub/Okuajub-Balloons/refs/heads/main/draculas_10000/
 
 //——— Display area ———
 origin.x,175
