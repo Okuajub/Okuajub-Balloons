@@ -1,0 +1,104 @@
+charset,UTF-8
+type,balloon
+use_self_alpha,1
+use_input_alpha,1
+//overlay_outside_balloon,1
+
+
+//——— Basic information ———
+name,Hareraiser
+craftman,Okuajub
+craftmanurl,https://okuajub-netspace.neocities.org/
+homeurl,https://dummy.url/
+
+
+//——— Display area ———
+origin.x,15
+origin.y,70
+
+validrect.left,10
+validrect.top,75
+validrect.right,-30
+validrect.bottom,-20
+
+wordwrappoint.x,-26
+
+
+//——— Font ———
+font.name,Times New Roman
+font.height,14
+
+font.color.r,0
+font.color.g,0
+font.color.b,0
+
+anchor.font.color.r,100
+anchor.font.color.g,0
+anchor.font.color.b,0
+
+cursor.font.color.r,100
+cursor.font.color.g,0
+cursor.font.color.b,0
+
+cursor.style,underline
+
+disable.font.color.r,99
+disable.font.color.g,99
+disable.font.color.b,99
+
+
+//——— Arrows ———
+arrow0.x,-30
+arrow0.y,75
+
+arrow1.x,-30
+arrow1.y,-25
+
+
+//——— Online marker ———
+onlinemarker.x,20
+onlinemarker.y,-25
+
+onlinemarker.interval,250
+
+
+//——— SSTP ———
+sstpmarker.x,20
+sstpmarker.y,-22
+
+sstpmessage.font.name,Times New Roman
+sstpmessage.font.height,11
+
+sstpmessage.x,15
+sstpmessage.xr,-10
+sstpmessage.y,-40
+
+sstpmessage.font.color.r,99
+sstpmessage.font.color.g,99
+sstpmessage.font.color.b,99
+
+
+//——— Number ———
+number.font.name,Times New Roman
+number.font.height,11
+
+
+
+number.xr,-30
+number.y,-40
+
+number.font.color.r,99
+number.font.color.g,99
+number.font.color.b,99
+
+
+//——— Input box ———
+communicatebox.x,8
+communicatebox.y,8
+
+communicatebox.background.color.r,247
+communicatebox.background.color.g,222
+communicatebox.background.color.b,154
+
+communicatebox.width,283
+communicatebox.height,20

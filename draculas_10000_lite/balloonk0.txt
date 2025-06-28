@@ -1,0 +1,17 @@
+//——— Display area ———
+origin.x,130
+origin.y,42
+
+validrect.left,80
+validrect.top,48
+validrect.right,280
+validrect.bottom,125
+
+wordwrappoint.x,270
+
+//——— Arrows ———
+arrow0.x,280
+arrow0.y,12
+
+arrow1.x,290
+arrow1.y,120

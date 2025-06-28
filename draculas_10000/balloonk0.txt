@@ -1,0 +1,41 @@
+//——— Display area ———
+origin.x,130
+origin.y,42
+
+validrect.left,80
+validrect.top,48
+validrect.right,280
+validrect.bottom,125
+
+wordwrappoint.x,270
+
+
+//——— Font ———
+font.name,Old English Text MT
+font.height,16
+
+font.color.r,225
+font.color.g,225
+font.color.b,225
+
+anchor.font.color.r,015
+anchor.font.color.g,084
+anchor.font.color.b,138
+
+cursor.font.color.r,015
+cursor.font.color.g,084
+cursor.font.color.b,138
+
+cursor.style,underline
+
+disable.font.color.r,146
+disable.font.color.g,135
+disable.font.color.b,178
+
+
+//——— Arrows ———
+arrow0.x,280
+arrow0.y,12
+
+arrow1.x,290
+arrow1.y,120
